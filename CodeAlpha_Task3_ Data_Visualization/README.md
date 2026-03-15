@@ -3,74 +3,85 @@
 
 This project performs Exploratory Data Analysis (EDA) and Financial Analysis on the TMDB Movies Dataset to uncover meaningful insights about the movie industry.
 
-The analysis focuses on:
+The analysis explores:
 
-• Movie genres and ratings
-• Budget vs Revenue relationships
-• Profitability and Return on Investment (ROI)
-• Movie production trends over time
-• Financial performance across genres and languages
+ • Movie genres and ratings
 
-Two interactive dashboards were created using Python visualization libraries to present insights in a clear and visually appealing format.
+ • Budget vs Revenue relationships
+
+ • Profitability and Return on Investment (ROI)
+
+ • Movie production trends over time
+
+ • Financial performance across genres and languages
+
+ • Two interactive dashboards were created using Python visualization libraries to present insights in a clear and visually appealing format.
 
 📂 Dataset
 
 Dataset: TMDB Movies Dataset
 
-The dataset contains detailed information about movies, including:
+The dataset contains important information about movies, including:
 
-• Rank
-• Budget
-• Genres
-• ID
-• Keywords
-• Original Language
-• Original Title
-• Overview
-• Popularity
-• Production Companies
-• Production Countries
-• Release Date
-• Revenue
-• Runtime
-• Spoken Languages
-• Status
-• Tagline
-• Title
-• Vote Average
-• Vote Count
+ • Movie ID
 
-During preprocessing, movies with very small budgets and revenues were removed to ensure accurate financial analysis.
+ • Title
+
+ • Release Date
+
+ • Budget
+
+ • Revenue
+
+ • Runtime
+
+ • Genres
+
+ • Vote Average (Ratings)
+
+ • Popularity
+
+ • Original Language
+
+Movies with very small budgets and revenues were removed during preprocessing to ensure accurate financial analysis.
 
 🛠️ Tools & Technologies
 Programming Language
 
-• Python
+ • Python
 
-Data Analysis & Visualization Libraries
+ • Pandas 
 
-• Pandas – Data manipulation and cleaning
-• NumPy – Numerical computations
-• Matplotlib – Data visualization
-• GridSpec – Professional dashboard layout design
+ • NumPy 
+ 
+ • Matplotlib 
+
+ • GridSpec 
+
 
 📊 Project Dashboards
 
-The analysis is presented through two dashboards designed to explore different aspects of the movie industry.
+The analysis is presented using two dashboards.
 
 📈 Dashboard 1: Movie Trends & Genre Analysis
 
-This dashboard focuses on genre popularity, ratings distribution, and movie trends.
+This dashboard focuses on genre popularity, ratings, and movie trends.
 
 Visualizations
 
-• Top Genres by Film Count
-• Average Revenue by Genre
-• Average Rating by Genre
-• Budget vs Revenue Relationship
-• Vote Rating Distribution
-• Annual Budget & Revenue Trends (2000–2016)
-• Movies Released per Year
+ • Top Genres by Film Count
+
+ • Average Revenue by Genre
+
+ • Average Rating by Genre
+
+ • Budget vs Revenue Relationship
+
+ • Vote Rating Distribution
+
+ • Annual Budget & Revenue Trends (2000–2016)
+
+ • Movies Released per Year
 
 💰 Dashboard 2: Financial & ROI Analysis
 
@@ -78,35 +89,35 @@ This dashboard focuses on movie profitability and financial performance.
 
 Visualizations
 
-• Top 10 Most Profitable Movies
-• ROI Distribution
-• Average Profit by Genre
-• Average ROI by Genre
-• Top 10 ROI Movies
-• Total Industry Profit by Year
-• Average Revenue by Language
+ • Top 10 Most Profitable Movies
+
+ • ROI Distribution
+
+ • Average Profit by Genre
+
+ • Average ROI by Genre
+
+ • Top 10 ROI Movies
+
+ • Total Industry Profit by Year
+
+ • Average Revenue by Language
 
 🔎 Key Insights
 
-🎭 Genre Trends
-Certain genres dominate movie production, reflecting strong and consistent audience demand.
+🎭 Genre Trends: Certain genres dominate movie production, reflecting strong audience demand.
 
-💰 Budget vs Revenue
-Movies with higher budgets tend to generate higher revenues, indicating a positive relationship between investment and returns.
+💰 Budget vs Revenue: Higher budget movies generally generate higher revenue.
 
-⭐ Ratings Distribution
-Most movies have ratings between 6 and 8, suggesting generally positive audience reception.
+⭐ Ratings: Most movies have ratings between 6 and 8, indicating moderate audience approval.
 
-🚀 Blockbuster Outliers
-A small number of movies generate exceptionally high revenue compared to their budgets, representing major blockbuster successes.
+🚀 Blockbusters: A small number of films generate extremely high revenue compared to their budgets.
 
-📊 Profitability
-Movie profitability varies significantly depending on genre, production budget, and audience reception.
+📊 Profitability: Financial performance varies widely depending on genre, budget, and audience reception.
+
 
 📊 Conclusion
 
-This project demonstrates how data analysis and visualization can reveal meaningful patterns in the movie industry.
+This project demonstrates how data analysis and visualization can uncover valuable insights in the movie industry.
 
-The analysis highlights relationships between budget, revenue, profitability, genres, and audience ratings, helping to better understand movie industry trends and financial performance.
-
-Through data-driven insights, this project shows how analytics can support better decision-making in film production and investment.
+The analysis highlights relationships between budget, revenue, profitability, genres, and audience ratings, helping better understand movie industry trends and financial performance.
