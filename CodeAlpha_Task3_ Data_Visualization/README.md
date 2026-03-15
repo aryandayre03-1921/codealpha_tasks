@@ -1,17 +1,24 @@
 🎬 TMDB Movies Data Analysis & Visualization
+
 📌 Project Overview
+
 This project performs Exploratory Data Analysis (EDA) and Financial Analysis on the TMDB Movies Dataset to uncover meaningful insights about the movie industry.
 The analysis explores:
+
 •	Movie genres and ratings
 •	Budget vs Revenue relationships
 •	Profitability and Return on Investment (ROI)
 •	Movie production trends over time
 •	Financial performance across genres and languages
+
 Two interactive dashboards were created using Python visualization libraries to present insights in a clear and visually appealing format.
 
 📂 Dataset
+
 Dataset: TMDB Movies Dataset
+
 The dataset contains important information about movies, including:
+
 • Rank
 • budget
 • genres
@@ -32,10 +39,13 @@ The dataset contains important information about movies, including:
 • title
 • vote_average
 • vote_count
+
 Movies with very small budgets and revenues were removed during preprocessing to ensure accurate financial analysis.
 
 🛠️ Tools & Technologies
+
 Programming Language
+
 •	Python
 •	Pandas 
 •	NumPy 
@@ -46,8 +56,10 @@ Programming Language
 The analysis is presented using two dashboards.
 
 📈 Dashboard 1: Movie Trends & Genre Analysis
+
 This dashboard focuses on genre popularity, ratings, and movie trends.
 Visualizations
+
 •	Top Genres by Film Count
 •	Average Revenue by Genre
 •	Average Rating by Genre
@@ -57,8 +69,10 @@ Visualizations
 •	Movies Released per Year
 
 💰 Dashboard 2: Financial & ROI Analysis
+
 This dashboard focuses on movie profitability and financial performance.
 Visualizations
+
 •	Top 10 Most Profitable Movies
 •	ROI Distribution
 •	Average Profit by Genre
@@ -68,6 +82,7 @@ Visualizations
 •	Average Revenue by Language
 
 🔎 Key Insights
+
 •	🎭 Genre Trends: Certain genres dominate movie production, reflecting strong audience demand.
 •	💰 Budget vs Revenue: Higher budget movies generally generate higher revenue.
 •	⭐ Ratings: Most movies have ratings between 6 and 8, indicating moderate audience approval.
@@ -76,6 +91,7 @@ Visualizations
 
 
 📊 Conclusion
+
 This project demonstrates how data analysis and visualization can uncover valuable insights in the movie industry.
 
 The analysis highlights relationships between budget, revenue, profitability, genres, and audience ratings, helping better understand movie industry trends and financial performance.
