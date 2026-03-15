@@ -100,3 +100,5 @@ This exploratory data analysis revealed several important trends in the movie in
 Detection of high-revenue blockbuster outliers
 
 Overall, the analysis demonstrates how data analytics can help uncover meaningful patterns in the entertainment industry, providing valuable insights into film production and audience behavior.
+
+![Image Alt](https://github.com/aryandayre03-1921/codealpha_tasks/blob/main/CodeAlpha_Task2_EDA/Screenshorts/top%2010%20Highest%20Revenue%20Movies.png?raw=true)
