@@ -122,3 +122,5 @@ Visualizations
 This project demonstrates how data analysis and visualization can uncover valuable insights in the movie industry.
 
 The analysis highlights relationships between budget, revenue, profitability, genres, and audience ratings, helping better understand movie industry trends and financial performance.
+
+![Image Alt](https://github.com/aryandayre03-1921/codealpha_tasks/blob/main/CodeAlpha_Task3_%20Data_Visualization/Screenshorts/Financial%20and%20ROI%20Analysis.png?raw=true)
