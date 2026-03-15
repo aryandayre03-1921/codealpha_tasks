@@ -33,11 +33,13 @@ Programming Language
 Data Analysis
 
 • Pandas – Data loading, cleaning, and analysis
+
 • NumPy – Numerical computations
 
 Data Visualization
 
 • Matplotlib – Data visualization
+
 • Seaborn – Statistical visualizations
 
 Natural Language Processing
@@ -80,10 +82,15 @@ A word cloud is generated to highlight the most frequently used words in tweets.
 ✨ Project Features
 
 ✔ Sentiment classification of tweets
+
 ✔ Analysis of public opinion on social media
+
 ✔ Visualization of sentiment distribution
+
 ✔ Word cloud generation for tweet text
+
 ✔ Engagement analysis using likes and retweets
+
 ✔ Natural Language Processing implementation
 
 🔎 Key Insights
@@ -136,4 +143,8 @@ Such sentiment analysis techniques are widely used by businesses, marketers, and
 Overall, this project highlights the power of NLP in transforming unstructured text data into meaningful insights
 
 
+
 ![image Alt](https://github.com/aryandayre03-1921/codealpha_tasks/blob/main/CodeAlpha_Task4_Sentiment_Analysis/Screenshort/Positive%20Words%20In%20Tweets.png?raw=true)
+
+
+![image Alt](https://github.com/aryandayre03-1921/codealpha_tasks/blob/main/CodeAlpha_Task4_Sentiment_Analysis/Screenshort/Negative%20Words%20In%20Tweets.png?raw=true)
