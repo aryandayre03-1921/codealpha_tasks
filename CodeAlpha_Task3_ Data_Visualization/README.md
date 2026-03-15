@@ -1,4 +1,5 @@
 🎬 TMDB Movies Data Analysis & Visualization
+
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) and Financial Analysis on the TMDB Movies Dataset to uncover meaningful insights about the movie industry.
