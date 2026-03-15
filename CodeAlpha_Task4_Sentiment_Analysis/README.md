@@ -16,8 +16,11 @@ The dataset contains 10,000 tweets collected from Twitter.
 Each tweet includes information such as:
 
 • Tweet text
+
 • Sentiment category
+
 • Engagement metrics (likes, retweets)
+
 • Other tweet-related metadata
 
 The dataset is used to analyze public sentiment patterns and trends on social media.
@@ -105,8 +108,11 @@ Tweets with strong emotions (positive or negative) often generate higher user en
 The project includes several visualizations such as:
 
 • Sentiment Distribution Charts
+
 • Tweet Engagement Analysis
+
 • Word Cloud of Frequent Words
+
 • Statistical Visualizations using Seaborn
 
 These visualizations help make the sentiment analysis easy to understand and interpret.
@@ -120,11 +126,14 @@ By classifying tweets into positive, negative, and neutral categories, the analy
 Such sentiment analysis techniques are widely used by businesses, marketers, and researchers to:
 
 • Understand customer feedback
+
 • Track public perception
+
 • Monitor brand reputation
+
 • Support data-driven decision making
 
 Overall, this project highlights the power of NLP in transforming unstructured text data into meaningful insights
 
 
-![image Alt](
+![image Alt](https://github.com/aryandayre03-1921/codealpha_tasks/blob/main/CodeAlpha_Task4_Sentiment_Analysis/Screenshort/Positive%20Words%20In%20Tweets.png?raw=true)
